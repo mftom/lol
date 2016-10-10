@@ -1,3 +1,2 @@
-salut c'est cool
-bonsoir
+je m'appelle poulet
 
